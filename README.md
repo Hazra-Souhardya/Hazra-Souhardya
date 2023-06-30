@@ -29,10 +29,8 @@
 
 <br><br>
 
-<h3 align="left">Languages and Tools:</h3><br>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hazra-Souhardya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Hazra-Souhardya" />
-</p>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/c/c_256x256.png" alt="c" width="50" height="50"/> </a> &nbsp;
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_256x256.png" alt="cpp" width="50" height="50"/> </a> &nbsp;
 <a href="https://www.w3schools.com/java/" target="_blank"> <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_256x256.png" alt="java" width="50" height="50"/> </a> &nbsp;
@@ -45,7 +43,8 @@
 <img src = "https://yt3.googleusercontent.com/_q52i8bUAEvcb7JR4e-eNTv23y2A_wg5sCz0NC0GrGtcw1CRMWJSOPVHUDh_bngD0q4gMvVeoA=s900-c-k-c0x00ffffff-no-rj" alt="vsc" width="50" height="50"/>
 <img src = "https://jupyter.org/assets/share.png" alt="jn" width="90" height="50"/>
 </p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hazra-Souhardya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Hazra-Souhardya" />
+</p>
 <h1 align="Center">
 <img src="https://github-readme-stats.vercel.app/api?username=Hazra-Souhardya&show_icons=true&locale=en&theme=tokyonight" alt="Hazra-Souhardya"/>
 <br>
