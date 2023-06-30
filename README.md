@@ -27,31 +27,36 @@
   
 - 🔭 Learn - Explore - Upgrade 😎
 
-<br><br>
+<br><br><br>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">⚙️Languages and Tools⚙️</h3>
 <p align="center">
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/c/c_256x256.png" alt="c" width="50" height="50"/> </a> &nbsp;
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_256x256.png" alt="cpp" width="50" height="50"/> </a> &nbsp;
 <a href="https://www.w3schools.com/java/" target="_blank"> <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_256x256.png" alt="java" width="50" height="50"/> </a> &nbsp;
 <a href="https://www.w3schools.com/python/" target="_blank"> <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_256x256.png" alt="python" width="50" height="50"/> </a> &nbsp;
+<a href = "https://www.w3schools.com/sql/" target = "_blank"> <img src = "https://w7.pngwing.com/pngs/525/959/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-text-trademark-logo.png" alt="sql" width="60" height="50"/></a> &nbsp;
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/html/html_256x256.png" alt="html5" width="60" height="60"/> </a> &nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/css/css_256x256.png" alt="css3" width="50" height="50"/> </a> &nbsp;
-<a href = "https://www.w3schools.com/js/" target = "_blank"> <img src = "https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript_256x256.png" alt="js" width="50" height="50"/></a> &nbsp;
-<a href = "https://www.w3schools.com/sql/" target = "_blank"> <img src = "https://w7.pngwing.com/pngs/525/959/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-text-trademark-logo.png" alt="sql" width="60" height="50"/></a> <br> <br>
+<a href = "https://www.w3schools.com/js/" target = "_blank"> <img src = "https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript_256x256.png" alt="js" width="50" height="50"/></a>
+<br> <br>
 <img src = "https://www.clipartmax.com/png/middle/349-3490136_anaconda-icon-anaconda-python-icon.png" alt="an" width="50" height="50"/> &nbsp; &nbsp; &nbsp;
 <img src = "https://yt3.googleusercontent.com/_q52i8bUAEvcb7JR4e-eNTv23y2A_wg5sCz0NC0GrGtcw1CRMWJSOPVHUDh_bngD0q4gMvVeoA=s900-c-k-c0x00ffffff-no-rj" alt="vsc" width="50" height="50"/>
 <img src = "https://jupyter.org/assets/share.png" alt="jn" width="90" height="50"/>
 </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hazra-Souhardya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Hazra-Souhardya" />
+<br>
+<h3 align="center">📊GitHub Statistics📊</h3>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hazra-Souhardya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Hazra-Souhardya"/>
 </p>
 <h1 align="Center">
 <img src="https://github-readme-stats.vercel.app/api?username=Hazra-Souhardya&show_icons=true&locale=en&theme=tokyonight" alt="Hazra-Souhardya"/>
-<br>
+<br> <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hazra-Souhardya&&theme=tokyonight" alt="Hazra-Souhardya"/>
 </h1>
-
-![Snake animation](https://github.com/Hazra-Souhardya/Hazra-Souhardya/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+<img src=https://github.com/Hazra-Souhardya/Hazra-Souhardya/blob/output/github-contribution-grid-snake.svg>
+</p>
 
 <!--
 ### Hi there 👋
