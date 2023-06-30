@@ -29,10 +29,9 @@
 
 <br><br>
 
+<h3 align="left">Languages and Tools:</h3><br>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hazra-Souhardya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Hazra-Souhardya" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3><br>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/c/c_256x256.png" alt="c" width="50" height="50"/> </a> &nbsp;
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_256x256.png" alt="cpp" width="50" height="50"/> </a> &nbsp;
