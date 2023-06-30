@@ -1,4 +1,9 @@
-![git-art-work](git-art-work.svg)
+<p>
+  <img src="S  O  U.svg" width="330" />
+  <img src="H  A  R.svg" width="330" /> 
+  <img src="D  Y  A.svg" width="330" />
+</p>
+
 
 <h1 align="Center">
   Hello World! <br>
