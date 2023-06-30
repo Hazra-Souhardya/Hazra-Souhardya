@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="S  O  U.svg" width="280" />
-  <img src="H  A  R.svg" width="280" /> 
-  <img src="D  Y  A.svg" width="280" />
+  <img src="S  O  U.svg" width="275" />
+  <img src="H  A  R.svg" width="275" /> 
+  <img src="D  Y  A.svg" width="275" />
 </p>
 
 
