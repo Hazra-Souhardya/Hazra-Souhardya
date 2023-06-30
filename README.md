@@ -11,6 +11,10 @@
   I'm Souhardya
 </h1>
 
+<p align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=00FF00&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hazra-Souhardya&label=Profile%20views&color=0e75b6&style=flat" alt="Hazra-Souhardya" /> </p>
