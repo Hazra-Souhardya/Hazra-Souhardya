@@ -14,7 +14,7 @@
 <p align="center">
   
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;Learning!;Exploring!;Upgrading!&font=Fira%20Code&center=true&width=390&height=60&duration=3000&pause=1500">
+  <img src="https://readme-typing-svg.demolab.com/?lines=👨‍💻;Welcome+to+my+GitHub+Profile!;Learning!;Exploring!;Upgrading!;😎&font=Fira%20Code&center=true&width=390&height=60&duration=3000&pause=1500">
 </p>
 
 </p>
