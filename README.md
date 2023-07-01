@@ -13,7 +13,10 @@
 
 <p align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=00FF00&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;Learning!;Exploring!;Upgrading!&font=Fira%20Code&center=true&width=390&height=60&duration=3000&pause=1500">
+</p>
+
 </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -25,11 +28,15 @@
 
 - 👨‍💻 Coding
 
+- 🎮 Gaming
+
+- 🎧 Music 🎶🎵
+
 - 👀 I'm interested in Science, Computers and Machines
 
 - 📍 Location - Earth 🌏
   
-- 🔭 Learn - Explore - Upgrade 😎
+- 🔭 Learning - Exploring - Upgrading 😎
 
 <br><br>
 
