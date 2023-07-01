@@ -24,7 +24,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hazra-Souhardya&label=Profile%20views&color=0e75b6&style=flat" alt="Hazra-Souhardya" /> </p>
 
 <!-- About -->
-<h4>
+<h5>
   
 - 👋 Hi, I'm Souhardya Hazra
 
@@ -39,7 +39,7 @@
 - 📍 Location - Earth 🌏
   
 - 🔭 Learning - Exploring - Upgrading 😎
-</h4>
+</h5>
 <br><br>
 
 <!-- Languages and Tools -->
