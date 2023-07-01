@@ -42,7 +42,7 @@
 
 <h3 align="center">⚙️Languages and Tools⚙️</h3>
 <p align="center">
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/c/c_256x256.png" alt="c" width="50" height="50"/> </a> &nbsp;
+<a href="" target="_blank"> <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/c/c_256x256.png" alt="c" width="50" height="50"/> </a> &nbsp;
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_256x256.png" alt="cpp" width="50" height="50"/> </a> &nbsp;
 <a href="https://www.w3schools.com/java/" target="_blank"> <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_256x256.png" alt="java" width="50" height="50"/> </a> &nbsp;
 <a href="https://www.w3schools.com/python/" target="_blank"> <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_256x256.png" alt="python" width="50" height="50"/> </a> &nbsp;
