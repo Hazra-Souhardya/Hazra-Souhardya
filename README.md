@@ -63,10 +63,6 @@
 <!-- GitHub Statistics -->
 <h3 align="center">📊GitHub Statistics📊</h3>
 
-<!-- Top Languages -->
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hazra-Souhardya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Hazra-Souhardya"/>
-</p>
-
 <!-- GitHub-Stats -->
 <h1 align="Center">
 <img src="https://github-readme-stats.vercel.app/api?username=Hazra-Souhardya&show_icons=true&locale=en&theme=tokyonight" alt="Hazra-Souhardya"/>
