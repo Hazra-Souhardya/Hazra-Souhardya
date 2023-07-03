@@ -21,7 +21,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <!-- Profile View -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hazra-Souhardya&label=Profile%20views&color=0e75b6&style=flat" alt="Hazra-Souhardya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hazra-Souhardya&label=Profile%20Views&color=blue&style=flat" alt="Hazra-Souhardya" /> </p>
 
 <!-- About -->
 <h5>
