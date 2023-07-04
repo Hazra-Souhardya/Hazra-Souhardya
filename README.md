@@ -61,7 +61,7 @@
 <br>
 
 <!-- Top Languages -->
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hazra-Souhardya&show_icons=true&locale=en&layout=compact&theme=blueberry" alt="Hazra-Souhardya"/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hazra-Souhardya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Hazra-Souhardya"/>
 </p>
 
 <!-- GitHub Statistics -->
