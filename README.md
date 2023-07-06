@@ -20,8 +20,8 @@
 <!-- Coder GIF -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<!-- Profile View -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hazra-Souhardya&label=Profile%20Views&color=blue&style=flat" alt="Hazra-Souhardya" /> </p>
+<!-- Profile Views -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hazra-Souhardya&label=Profile%20Views&color=blue&style=flat" alt="Profile-Views" /> </p>
 
 <!-- About -->
 <h5>
@@ -61,7 +61,7 @@
 <br>
 
 <!-- Top Languages -->
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hazra-Souhardya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Hazra-Souhardya"/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hazra-Souhardya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Stats"/>
 </p>
 
 <!-- GitHub Statistics -->
@@ -69,11 +69,11 @@
 
 <!-- GitHub-Stats -->
 <h1 align="Center">
-<img src="https://github-readme-stats.vercel.app/api?username=Hazra-Souhardya&show_icons=true&locale=en&theme=tokyonight" alt="Hazra-Souhardya"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Hazra-Souhardya&show_icons=true&locale=en&theme=tokyonight" alt="Stats"/>
 <br> <br>
 
 <!-- Streak-Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hazra-Souhardya&&theme=tokyonight" alt="Hazra-Souhardya"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hazra-Souhardya&&theme=tokyonight" alt="Stats"/>
 </h1>
 
 <!-- Contribution-Eating-Snake -->
