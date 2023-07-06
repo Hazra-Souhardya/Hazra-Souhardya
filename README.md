@@ -73,7 +73,7 @@
 <br> <br>
 
 <!-- Streak-Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hazra-Souhardya&&theme=blueberry" alt="Hazra-Souhardya"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hazra-Souhardya&&theme=tokyonight" alt="Hazra-Souhardya"/>
 </h1>
 
 <!-- Contribution-Eating-Snake -->
