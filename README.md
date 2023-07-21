@@ -76,7 +76,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hazra-Souhardya&&theme=tokyonight" alt="Stats"/>
 </h1>
 
-<!-- Contribution-Eating-Snake 
+<!-- //Contribution-Eating-Snake 
 <p align="center">
 <img src=https://github.com/Hazra-Souhardya/Hazra-Souhardya/blob/output/github-contribution-grid-snake.svg>
 </p> -->
