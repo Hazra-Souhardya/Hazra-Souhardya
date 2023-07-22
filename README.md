@@ -77,9 +77,23 @@
 </h1>
 
 <!-- Repositories and Projects -->
-[![Face Detection System](https://github-readme-stats.vercel.app/api/pin/?username=Hazra-Souhardya&repo=Face-Detection-System&theme=radical)](https://github.com/Hazra-Souhardya/Face-Detection-System)
+<h3 align="center">📖Repositories and Projects📖</h3>
+<p align="center">
+<a href="https://github.com/Hazra-Souhardya/Face-Detection-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hazra-Souhardya&repo=Face-Detection-System&theme=radical" alt="Face Detection System" />
+</a>
+<a href="https://github.com/Hazra-Souhardya/Hindi-Paraphrasing-Tool">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hazra-Souhardya&repo=Hindi-Paraphrasing-Tool&theme=radical" alt="Hindi Paraphrasing Tool" />
+</a>
+<a href="https://github.com/Hazra-Souhardya/Car-Rental-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hazra-Souhardya&repo=Car-Rental-System&theme=radical" alt="Car Rental System" />
+</a>
+<a href="https://github.com/Hazra-Souhardya/Covid-19-Sentiment-Analysis">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hazra-Souhardya&repo=Covid-19-Sentiment-Analysis&theme=radical" alt="Covid-19 Sentiment Analysis" />
+</a>
+</p>
 
-<!-- //Contribution-Eating-Snake 
+<!-- //Contribution-Eating-Snake
 <p align="center">
 <img src=https://github.com/Hazra-Souhardya/Hazra-Souhardya/blob/output/github-contribution-grid-snake.svg>
 </p> -->
