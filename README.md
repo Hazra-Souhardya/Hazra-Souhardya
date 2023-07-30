@@ -93,11 +93,10 @@
 </a>
 </p>
 
-<!-- Contribution-Eating-Snake
-
+<!-- Contribution-Eating-Snake -->
 <p align="center">
-<img src=https://github.com/Hazra-Souhardya/Hazra-Souhardya/blob/output/github-contribution-grid-snake.svg>
-</p> -->
+<img src=https://github.com/Hazra-Souhardya/Hazra-Souhardya/blob/output/github-contribution-grid-snake-dark.svg>
+</p>
 
 <!--
 ### Hi there 👋
