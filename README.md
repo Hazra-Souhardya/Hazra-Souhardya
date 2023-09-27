@@ -6,11 +6,11 @@
 </p>
 
 <!-- Intro -->
-<h1 align="Center">
+<p align="center">
   Hello World! <br>
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50" valign="middle"> <br>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" valign="middle"> <br>
   I'm Souhardya
-</h1>
+</p>
 
 <!-- Typing About -->
 <p align="center">
@@ -24,7 +24,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hazra-Souhardya&label=Profile%20Views&color=blue&style=flat" alt="Profile-Views" /> </p>
 
 <!-- About -->
-<h5>
+<p>
   
 - 👋 Hi, I'm Souhardya Hazra
 
@@ -39,11 +39,11 @@
 - 📍 Location - Earth 🌏
   
 - 🔭 Learning - Exploring - Upgrading 😎
-</h5>
+</p>
 <br><br>
 
 <!-- Languages and Tools -->
-<h3 align="center">⚙️Languages and Tools⚙️</h3>
+<p align="center">⚙️Languages and Tools⚙️</p>
 <p align="center">
 <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/c/c_256x256.png" alt="c" width="50" height="50"/> &nbsp;
 <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_256x256.png" alt="cpp" width="50" height="50"/> &nbsp;
@@ -65,19 +65,19 @@
 </p>
 
 <!-- GitHub Statistics -->
-<h3 align="center">📊GitHub Statistics📊</h3>
+<p align="center">📊GitHub Statistics📊</p>
 
 <!-- GitHub-Stats -->
-<h1 align="Center">
+<p align="Center">
 <img src="https://github-readme-stats.vercel.app/api?username=Hazra-Souhardya&show_icons=true&locale=en&theme=tokyonight" alt="Stats"/>
 <br> <br>
 
 <!-- Streak-Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hazra-Souhardya&&theme=tokyonight" alt="Stats"/>
-</h1>
+</p>
 
 <!-- Repositories and Projects -->
-<h3 align="center">📖Repositories and Projects📖</h3>
+<p align="center">📖Repositories and Projects📖</p>
 <p align="center">
 <a href="https://github.com/Hazra-Souhardya/Face-Detection-System">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hazra-Souhardya&repo=Face-Detection-System&theme=radical" alt="Face Detection System" />
