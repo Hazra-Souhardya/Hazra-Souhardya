@@ -54,7 +54,7 @@
 <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/css/css_256x256.png" alt="css3" width="50" height="50"/> &nbsp;
 <img src = "https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript_256x256.png" alt="js" width="50" height="50"/>
 <br> <br> &nbsp; &nbsp; &nbsp;
-&nbsp; <img src = "https://www.clipartmax.com/png/middle/349-3490136_anaconda-icon-anaconda-python-icon.png" alt="an" width="50" height="50"/> &nbsp; &nbsp; &nbsp;
+&nbsp; <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpZJ3P4FMOFwSm_1Z63tWuZR9czntd7cDqIQ&usqp=CAU" alt="an" width="50" height="50"/> &nbsp; &nbsp; &nbsp;
 <img src = "https://yt3.googleusercontent.com/_q52i8bUAEvcb7JR4e-eNTv23y2A_wg5sCz0NC0GrGtcw1CRMWJSOPVHUDh_bngD0q4gMvVeoA=s900-c-k-c0x00ffffff-no-rj" alt="vsc" width="50" height="50"/>
 <img src = "https://jupyter.org/assets/share.png" alt="jn" width="90" height="50"/>
 </p>
