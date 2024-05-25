@@ -79,6 +79,12 @@
 <!-- Repositories and Projects -->
 <p align="center">📖Repositories and Projects📖</p>
 <p align="center">
+<a href="https://github.com/Hazra-Souhardya/Jet-Bus--Ticket-Booking-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hazra-Souhardya&repo=Jet-Bus--Ticket-Booking-System&theme=radical" alt="Jet Bus - Ticket Booking System" />
+</a>
+<a href="https://github.com/Hazra-Souhardya/Aero-Paint-App">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hazra-Souhardya&repo=Aero-Paint-App&theme=radical" alt="Aero Paint App" />
+</a>
 <a href="https://github.com/Hazra-Souhardya/Face-Detection-System">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hazra-Souhardya&repo=Face-Detection-System&theme=radical" alt="Face Detection System" />
 </a>
