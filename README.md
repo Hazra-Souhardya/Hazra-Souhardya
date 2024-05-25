@@ -85,7 +85,9 @@
 <a href="https://github.com/Hazra-Souhardya/Aero-Paint-App">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hazra-Souhardya&repo=Aero-Paint-App&theme=radical" alt="Aero Paint App" />
 </a>
-
+<a href="https://github.com/Hazra-Souhardya/Face-Detection-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hazra-Souhardya&repo=Face-Detection-System&theme=radical" alt="Face Detection System" />
+</a>
 <a href="https://github.com/Hazra-Souhardya/Hindi-Paraphrasing-Tool">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hazra-Souhardya&repo=Hindi-Paraphrasing-Tool&theme=radical" alt="Hindi Paraphrasing Tool" />
 </a>
